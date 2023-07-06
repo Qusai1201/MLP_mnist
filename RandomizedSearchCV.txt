@@ -1,0 +1,2 @@
+Best Score:  0.9701166666666667
+Best Params:  {'hidden_layer_sizes': 472, 'activation': 'relu'}
